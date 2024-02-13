@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "957538159183",
+    "firebase_url": "https://quiz-app-fde11-default-rtdb.firebaseio.com",
+    "project_id": "quiz-app-fde11",
+    "storage_bucket": "quiz-app-fde11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957538159183:android:147639ca1531d9ebfe383a",
+        "android_client_info": {
+          "package_name": "com.example.livechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzpYSjimXPnv2swR3h7aniKgoL1HOqKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957538159183:android:8bd45c857b66123efe383a",
+        "android_client_info": {
+          "package_name": "com.example.project250"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzpYSjimXPnv2swR3h7aniKgoL1HOqKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957538159183:android:989ed09ac7ebfb83fe383a",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyzpYSjimXPnv2swR3h7aniKgoL1HOqKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
